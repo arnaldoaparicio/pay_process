@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: 2023-08-04 11:48:49
+  location: MyString
+  approve: false
+  deposit: 1
+  price: 1
+
+two:
+  time: 2023-08-04 11:48:49
+  location: MyString
+  approve: false
+  deposit: 1
+  price: 1
